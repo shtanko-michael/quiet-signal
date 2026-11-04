@@ -1,0 +1,1 @@
+const a={"place.town.name":"Echo Ridge","place.lake.name":"Lake Tikhoye","place.tower.name":"Radio tower","place.sanatorium.name":"Cedar Mountain Sanatorium","place.cemetery.name":"Cemetery","place.sawmill.name":"Sawmill","place.library.name":"Library"};export{a as default};

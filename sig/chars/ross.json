@@ -1,0 +1,18 @@
+{
+ "frameWidth": 96,
+ "frameHeight": 128,
+ "charHeight": 86,
+ "kMul": 1.012,
+ "hdOnly": true,
+ "frames": {
+  "idle_side": 0
+ },
+ "walk": {
+  "side": [
+   "idle_side"
+  ]
+ },
+ "cycleArt": {
+  "side": 59.4
+ }
+}

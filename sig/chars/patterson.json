@@ -1,0 +1,86 @@
+{
+ "frameWidth": 62,
+ "frameHeight": 81,
+ "charHeight": 78,
+ "frames": {
+  "idle_side": 0,
+  "sway_1": 1,
+  "sway_2": 2,
+  "sway_3": 3,
+  "sway_4": 4,
+  "sway_5": 5,
+  "idle_1": 6,
+  "idle_2": 7,
+  "idle_3": 8,
+  "idle_4": 9,
+  "idle_5": 10,
+  "idle_mouth_side": 11,
+  "idle_mouth_side_wide": 12,
+  "blink_side": 13,
+  "idle_front": 14,
+  "talk_front": 15,
+  "talk_front_wide": 16,
+  "blink_front": 17,
+  "talk_side": 0,
+  "gesture_mouth_side": 11,
+  "gesture_mouth_side_wide": 12,
+  "act2_1": 18,
+  "act2_2": 19,
+  "act2_3": 20,
+  "act2_4": 21,
+  "act2_5": 22,
+  "act3_1": 23,
+  "act3_2": 24,
+  "act3_3": 25,
+  "act3_4": 26,
+  "act3_5": 27
+ },
+ "walk": {
+  "side": [
+   "idle_side"
+  ]
+ },
+ "cycleArt": {
+  "side": 40
+ },
+ "sway": {
+  "side": [
+   "idle_side",
+   "sway_1",
+   "sway_2",
+   "sway_3",
+   "sway_4",
+   "sway_5"
+  ]
+ },
+ "idleLoop": [
+  "idle_1",
+  "idle_2",
+  "idle_3",
+  "idle_4",
+  "idle_5"
+ ],
+ "idleLoops": [
+  [
+   "idle_1",
+   "idle_2",
+   "idle_3",
+   "idle_4",
+   "idle_5"
+  ],
+  [
+   "act2_1",
+   "act2_2",
+   "act2_3",
+   "act2_4",
+   "act2_5"
+  ],
+  [
+   "act3_1",
+   "act3_2",
+   "act3_3",
+   "act3_4",
+   "act3_5"
+  ]
+ ]
+}

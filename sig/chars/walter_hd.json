@@ -1,0 +1,149 @@
+{
+ "frameWidth": 96,
+ "frameHeight": 128,
+ "cols": 42,
+ "scale": 0.7963,
+ "stairs": {
+  "R": 19.5,
+  "D": 15.3,
+  "front": [
+   0.6,
+   0.3,
+   0.1,
+   0.0
+  ],
+  "up": [],
+  "down": [],
+  "info": {},
+  "fit": {
+   "down": [
+    -0.3,
+    110.1
+   ],
+   "up": [
+    -0.45,
+    125.4
+   ]
+  }
+ },
+ "frames": {
+  "hdwalk_0": 0,
+  "hdwalk_1": 1,
+  "hdwalk_2": 2,
+  "hdwalk_3": 3,
+  "hdwalk_4": 4,
+  "hdwalk_5": 5,
+  "hdwalk_6": 6,
+  "hdwalk_7": 7,
+  "sway_side_0": 8,
+  "sway_side_1": 9,
+  "sway_side_2": 10,
+  "sway_side_3": 11,
+  "sway_side_4": 12,
+  "sway_side_5": 13,
+  "sway_side_6": 14,
+  "sway_side_7": 15,
+  "sway_front_0": 16,
+  "sway_front_1": 17,
+  "sway_front_2": 18,
+  "sway_front_3": 19,
+  "sway_front_4": 20,
+  "sway_front_5": 21,
+  "sway_front_6": 22,
+  "sway_front_7": 23,
+  "idle_side": 24,
+  "idle_front": 25,
+  "idle_mouth_side": 26,
+  "idle_mouth_side_wide": 27,
+  "blink_side": 28,
+  "talk_front": 29,
+  "talk_front_wide": 30,
+  "blink_front": 31,
+  "act2_1": 32,
+  "act2_2": 33,
+  "act2_3": 34,
+  "act2_4": 35,
+  "act2_5": 36,
+  "act3_1": 37,
+  "act3_2": 38,
+  "act3_3": 39,
+  "act3_4": 40,
+  "act3_5": 41
+ },
+ "walk": {
+  "side": [
+   "hdwalk_0",
+   "hdwalk_1",
+   "hdwalk_2",
+   "hdwalk_3",
+   "hdwalk_4",
+   "hdwalk_5",
+   "hdwalk_6",
+   "hdwalk_7"
+  ]
+ },
+ "climb": [],
+ "cycleArt": {
+  "side": 76.4
+ },
+ "climbCycleArt": 47.8,
+ "sway": {},
+ "hands": {
+  "hdwalk_0": [
+   -1.7,
+   -41.2
+  ],
+  "hdwalk_1": [
+   -0.7,
+   -40.4
+  ],
+  "hdwalk_2": [
+   -2.7,
+   -38.5
+  ],
+  "hdwalk_3": [
+   -1.9,
+   -41.2
+  ],
+  "hdwalk_4": [
+   -2.7,
+   -43.1
+  ],
+  "hdwalk_5": [
+   -0.5,
+   -42.6
+  ],
+  "hdwalk_6": [
+   -2.4,
+   -37.0
+  ],
+  "hdwalk_7": [
+   -1.2,
+   -41.6
+  ],
+  "idle_side": [
+   -3.2,
+   -49.4
+  ],
+  "idle_front": [
+   -0.4,
+   -50.7
+  ]
+ },
+ "gestures": {
+  "act2": [
+   "act2_1",
+   "act2_2",
+   "act2_3",
+   "act2_4",
+   "act2_5"
+  ],
+  "act3": [
+   "act3_1",
+   "act3_2",
+   "act3_3",
+   "act3_4",
+   "act3_5"
+  ]
+ }
+}

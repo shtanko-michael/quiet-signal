@@ -1,0 +1,45 @@
+{
+ "frameWidth": 38,
+ "frameHeight": 92,
+ "charHeight": 89,
+ "frames": {
+  "idle_side": 0,
+  "talk_side": 1,
+  "idle_front": 2,
+  "idle_mouth_side": 3,
+  "idle_mouth_side_wide": 4,
+  "gesture_mouth_side": 5,
+  "gesture_mouth_side_wide": 6,
+  "blink_side": 7,
+  "breathe_side": 8,
+  "talk_front": 9,
+  "talk_front_wide": 10,
+  "blink_front": 11
+ },
+ "walk": {
+  "side": [
+   "idle_side"
+  ]
+ },
+ "cycleArt": {
+  "side": 40
+ },
+ "kMul": 0.94,
+ "hdOnly": true,
+ "idleLoops": [
+  [
+   "act2_1",
+   "act2_2",
+   "act2_3",
+   "act2_4",
+   "act2_5"
+  ],
+  [
+   "act3_1",
+   "act3_2",
+   "act3_3",
+   "act3_4",
+   "act3_5"
+  ]
+ ]
+}

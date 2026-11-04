@@ -1,0 +1,216 @@
+{
+ "frameWidth": 96,
+ "frameHeight": 128,
+ "cols": 50,
+ "scale": 0.7963,
+ "stairs": {
+  "R": 19.5,
+  "D": 15.3,
+  "front": [
+   0.6,
+   0.3,
+   0.1,
+   0.0
+  ],
+  "up": [
+   "stdn_7",
+   "stdn_6",
+   "stdn_5",
+   "stdn_4",
+   "stdn_3",
+   "stdn_2",
+   "stdn_1",
+   "stdn_0"
+  ],
+  "down": [
+   "stdn_0",
+   "stdn_1",
+   "stdn_2",
+   "stdn_3",
+   "stdn_4",
+   "stdn_5",
+   "stdn_6",
+   "stdn_7"
+  ],
+  "info": {
+   "stdn_0": [
+    55.1,
+    127,
+    16
+   ],
+   "stdn_1": [
+    48.8,
+    127,
+    16
+   ],
+   "stdn_2": [
+    45.2,
+    127,
+    16
+   ],
+   "stdn_3": [
+    41.4,
+    125,
+    16
+   ],
+   "stdn_4": [
+    55.1,
+    127,
+    16
+   ],
+   "stdn_5": [
+    48.8,
+    127,
+    16
+   ],
+   "stdn_6": [
+    45.2,
+    127,
+    16
+   ],
+   "stdn_7": [
+    41.4,
+    125,
+    16
+   ]
+  },
+  "fit": {
+   "down": [
+    -0.3,
+    110.1
+   ],
+   "up": [
+    -0.45,
+    125.4
+   ]
+  }
+ },
+ "frames": {
+  "hdwalk_0": 0,
+  "hdwalk_1": 1,
+  "hdwalk_2": 2,
+  "hdwalk_3": 3,
+  "hdwalk_4": 4,
+  "hdwalk_5": 5,
+  "hdwalk_6": 6,
+  "hdwalk_7": 7,
+  "sway_side_0": 8,
+  "sway_side_1": 9,
+  "sway_side_2": 10,
+  "sway_side_3": 11,
+  "sway_side_4": 12,
+  "sway_side_5": 13,
+  "sway_side_6": 14,
+  "sway_side_7": 15,
+  "sway_front_0": 16,
+  "sway_front_1": 17,
+  "sway_front_2": 18,
+  "sway_front_3": 19,
+  "sway_front_4": 20,
+  "sway_front_5": 21,
+  "sway_front_6": 22,
+  "sway_front_7": 23,
+  "idle_side": 24,
+  "idle_front": 25,
+  "idle_mouth_side": 26,
+  "idle_mouth_side_wide": 27,
+  "blink_side": 28,
+  "talk_front": 29,
+  "talk_front_wide": 30,
+  "blink_front": 31,
+  "stdn_0": 32,
+  "stdn_1": 33,
+  "stdn_2": 34,
+  "stdn_3": 35,
+  "stdn_4": 36,
+  "stdn_5": 37,
+  "stdn_6": 38,
+  "stdn_7": 39,
+  "act2_1": 40,
+  "act2_2": 41,
+  "act2_3": 42,
+  "act2_4": 43,
+  "act2_5": 44,
+  "act3_1": 45,
+  "act3_2": 46,
+  "act3_3": 47,
+  "act3_4": 48,
+  "act3_5": 49
+ },
+ "walk": {
+  "side": [
+   "hdwalk_0",
+   "hdwalk_1",
+   "hdwalk_2",
+   "hdwalk_3",
+   "hdwalk_4",
+   "hdwalk_5",
+   "hdwalk_6",
+   "hdwalk_7"
+  ]
+ },
+ "climb": [],
+ "cycleArt": {
+  "side": 76.4
+ },
+ "climbCycleArt": 47.8,
+ "sway": {},
+ "hands": {
+  "hdwalk_0": [
+   -11.7,
+   -45.0
+  ],
+  "hdwalk_1": [
+   -8.8,
+   -43.7
+  ],
+  "hdwalk_2": [
+   -4.6,
+   -42.7
+  ],
+  "hdwalk_3": [
+   4.2,
+   -45.3
+  ],
+  "hdwalk_4": [
+   6.0,
+   -46.7
+  ],
+  "hdwalk_5": [
+   3.5,
+   -44.6
+  ],
+  "hdwalk_6": [
+   -4.7,
+   -42.3
+  ],
+  "hdwalk_7": [
+   -11.5,
+   -44.1
+  ],
+  "idle_side": [
+   -3.0,
+   -43.7
+  ],
+  "idle_front": [
+   0.4,
+   -44.7
+  ]
+ },
+ "gestures": {
+  "act2": [
+   "act2_1",
+   "act2_2",
+   "act2_3",
+   "act2_4",
+   "act2_5"
+  ],
+  "act3": [
+   "act3_1",
+   "act3_2",
+   "act3_3",
+   "act3_4",
+   "act3_5"
+  ]
+ }
+}

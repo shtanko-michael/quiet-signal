@@ -1,0 +1,16 @@
+{
+ "frameWidth": 160,
+ "frameHeight": 128,
+ "scale": 0.7963,
+ "run": [
+  "hdrun_0",
+  "hdrun_1",
+  "hdrun_2",
+  "hdrun_3",
+  "hdrun_4",
+  "hdrun_5",
+  "hdrun_6",
+  "hdrun_7"
+ ],
+ "runCycleArt": 119.4
+}

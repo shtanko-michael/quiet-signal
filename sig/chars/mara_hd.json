@@ -1,0 +1,421 @@
+{
+ "frameWidth": 96,
+ "frameHeight": 128,
+ "cols": 139,
+ "scale": 0.7963,
+ "stairs": {
+  "R": 19.5,
+  "D": 15.3,
+  "front": [
+   0.6,
+   0.3,
+   0.1,
+   0.0
+  ],
+  "up": [
+   "stdn_7",
+   "stdn_6",
+   "stdn_5",
+   "stdn_4",
+   "stdn_3",
+   "stdn_2",
+   "stdn_1",
+   "stdn_0"
+  ],
+  "down": [
+   "stdn_0",
+   "stdn_1",
+   "stdn_2",
+   "stdn_3",
+   "stdn_4",
+   "stdn_5",
+   "stdn_6",
+   "stdn_7"
+  ],
+  "info": {
+   "stdn_0": [
+    55.4,
+    127,
+    17
+   ],
+   "stdn_1": [
+    48.8,
+    127,
+    17
+   ],
+   "stdn_2": [
+    45.3,
+    127,
+    17
+   ],
+   "stdn_3": [
+    41.5,
+    125,
+    17
+   ],
+   "stdn_4": [
+    55.4,
+    127,
+    17
+   ],
+   "stdn_5": [
+    48.8,
+    127,
+    17
+   ],
+   "stdn_6": [
+    45.3,
+    127,
+    17
+   ],
+   "stdn_7": [
+    41.5,
+    125,
+    17
+   ]
+  },
+  "fit": {
+   "down": [
+    -0.3,
+    110.1
+   ],
+   "up": [
+    -0.45,
+    125.4
+   ]
+  }
+ },
+ "frames": {
+  "hdwalk_0": 0,
+  "hdwalk_1": 1,
+  "hdwalk_2": 2,
+  "hdwalk_3": 3,
+  "hdwalk_4": 4,
+  "hdwalk_5": 5,
+  "hdwalk_6": 6,
+  "hdwalk_7": 7,
+  "hdclimb_0": 8,
+  "hdclimb_1": 9,
+  "hdclimb_2": 10,
+  "hdclimb_3": 11,
+  "hdclimb_4": 12,
+  "hdclimb_5": 13,
+  "hdclimb_6": 14,
+  "hdclimb_7": 15,
+  "sway_side_0": 16,
+  "sway_side_1": 17,
+  "sway_side_2": 18,
+  "sway_side_3": 19,
+  "sway_side_4": 20,
+  "sway_side_5": 21,
+  "sway_side_6": 22,
+  "sway_side_7": 23,
+  "sway_front_0": 24,
+  "sway_front_1": 25,
+  "sway_front_2": 26,
+  "sway_front_3": 27,
+  "sway_front_4": 28,
+  "sway_front_5": 29,
+  "sway_front_6": 30,
+  "sway_front_7": 31,
+  "idle_side": 32,
+  "idle_front": 33,
+  "idle_mouth_side": 34,
+  "idle_mouth_side_wide": 35,
+  "blink_side": 36,
+  "talk_front": 37,
+  "talk_front_wide": 38,
+  "blink_front": 39,
+  "stdn_0": 40,
+  "stdn_1": 41,
+  "stdn_2": 42,
+  "stdn_3": 43,
+  "stdn_4": 44,
+  "stdn_5": 45,
+  "stdn_6": 46,
+  "stdn_7": 47,
+  "turn34_front": 48,
+  "turn34_back": 49,
+  "idle_back": 50,
+  "hdfront_0": 51,
+  "hdfront_1": 52,
+  "hdfront_2": 53,
+  "hdfront_3": 54,
+  "hdfront_4": 55,
+  "hdfront_5": 56,
+  "hdfront_6": 57,
+  "hdfront_7": 58,
+  "hdback_0": 59,
+  "hdback_1": 60,
+  "hdback_2": 61,
+  "hdback_3": 62,
+  "hdback_4": 63,
+  "hdback_5": 64,
+  "hdback_6": 65,
+  "hdback_7": 66,
+  "hd_hair_1": 67,
+  "hd_hair_2": 68,
+  "hd_hair_3": 69,
+  "hd_hair_4": 70,
+  "hd_hair_5": 71,
+  "hd_hair_6": 72,
+  "hd_fold_1": 73,
+  "hd_fold_2": 74,
+  "hd_fold_3": 75,
+  "hd_fold_4": 76,
+  "hd_fold_5": 77,
+  "hd_fold_6": 78,
+  "hd_watch_1": 79,
+  "hd_watch_2": 80,
+  "hd_watch_3": 81,
+  "hd_watch_4": 82,
+  "hd_watch_5": 83,
+  "hd_watch_6": 84,
+  "hd_look_1": 85,
+  "hd_look_2": 86,
+  "hd_look_3": 87,
+  "hd_look_4": 88,
+  "hd_look_5": 89,
+  "hd_look_6": 90,
+  "hd_glance_1": 91,
+  "hd_glance_2": 92,
+  "hd_glance_3": 93,
+  "hd_glance_4": 94,
+  "hd_glance_5": 95,
+  "hd_glance_6": 96,
+  "hd_collar_1": 97,
+  "hd_collar_2": 98,
+  "hd_collar_3": 99,
+  "hd_collar_4": 100,
+  "hd_collar_5": 101,
+  "hd_collar_6": 102,
+  "hd_pockets_1": 103,
+  "hd_pockets_2": 104,
+  "hd_pockets_3": 105,
+  "hd_pockets_4": 106,
+  "hd_pockets_5": 107,
+  "hd_pockets_6": 108,
+  "hd_rub_1": 109,
+  "hd_rub_2": 110,
+  "hd_rub_3": 111,
+  "hd_rub_4": 112,
+  "hd_rub_5": 113,
+  "hd_rub_6": 114,
+  "hd_neck_1": 115,
+  "hd_neck_2": 116,
+  "hd_neck_3": 117,
+  "hd_neck_4": 118,
+  "hd_neck_5": 119,
+  "hd_neck_6": 120,
+  "hd_badge_1": 121,
+  "hd_badge_2": 122,
+  "hd_badge_3": 123,
+  "hd_badge_4": 124,
+  "hd_badge_5": 125,
+  "hd_badge_6": 126,
+  "hd_notebook_1": 127,
+  "hd_notebook_2": 128,
+  "hd_notebook_3": 129,
+  "hd_notebook_4": 130,
+  "hd_notebook_5": 131,
+  "hd_notebook_6": 132,
+  "hd_yawn_1": 133,
+  "hd_yawn_2": 134,
+  "hd_yawn_3": 135,
+  "hd_yawn_4": 136,
+  "hd_yawn_5": 137,
+  "hd_yawn_6": 138
+ },
+ "walk": {
+  "side": [
+   "hdwalk_0",
+   "hdwalk_1",
+   "hdwalk_2",
+   "hdwalk_3",
+   "hdwalk_4",
+   "hdwalk_5",
+   "hdwalk_6",
+   "hdwalk_7"
+  ],
+  "front": [
+   "hdfront_0",
+   "hdfront_1",
+   "hdfront_2",
+   "hdfront_3",
+   "hdfront_4",
+   "hdfront_5",
+   "hdfront_6",
+   "hdfront_7"
+  ],
+  "back": [
+   "hdback_0",
+   "hdback_1",
+   "hdback_2",
+   "hdback_3",
+   "hdback_4",
+   "hdback_5",
+   "hdback_6",
+   "hdback_7"
+  ]
+ },
+ "climb": [
+  "hdclimb_0",
+  "hdclimb_1",
+  "hdclimb_2",
+  "hdclimb_3",
+  "hdclimb_4",
+  "hdclimb_5",
+  "hdclimb_6",
+  "hdclimb_7"
+ ],
+ "cycleArt": {
+  "side": 76.4,
+  "front": 38.0,
+  "back": 38.0
+ },
+ "climbCycleArt": 47.8,
+ "sway": {},
+ "hands": {
+  "hdwalk_0": [
+   -11.8,
+   -40.5
+  ],
+  "hdwalk_1": [
+   -7.4,
+   -39.0
+  ],
+  "hdwalk_2": [
+   -2.8,
+   -38.1
+  ],
+  "hdwalk_3": [
+   8.7,
+   -41.4
+  ],
+  "hdwalk_4": [
+   10.2,
+   -44.7
+  ],
+  "hdwalk_5": [
+   8.1,
+   -40.9
+  ],
+  "hdwalk_6": [
+   -2.9,
+   -38.2
+  ],
+  "hdwalk_7": [
+   -10.8,
+   -41.8
+  ],
+  "idle_side": [
+   -1.1,
+   -38.9
+  ],
+  "idle_front": [
+   0.8,
+   -40.4
+  ]
+ },
+ "gestures": {
+  "hair": [
+   "hd_hair_1",
+   "hd_hair_2",
+   "hd_hair_3",
+   "hd_hair_4",
+   "hd_hair_5",
+   "hd_hair_6"
+  ],
+  "watch": [
+   "hd_watch_1",
+   "hd_watch_2",
+   "hd_watch_3",
+   "hd_watch_4",
+   "hd_watch_5",
+   "hd_watch_6"
+  ],
+  "glance": [
+   "hd_glance_1",
+   "hd_glance_2",
+   "hd_glance_3",
+   "hd_glance_4",
+   "hd_glance_5",
+   "hd_glance_6"
+  ],
+  "collar": [
+   "hd_collar_1",
+   "hd_collar_2",
+   "hd_collar_3",
+   "hd_collar_4",
+   "hd_collar_5",
+   "hd_collar_6"
+  ],
+  "pockets": [
+   "hd_pockets_5",
+   "hd_pockets_1",
+   "hd_pockets_2",
+   "hd_pockets_3",
+   "hd_pockets_4",
+   "hd_pockets_5",
+   "hd_pockets_6"
+  ],
+  "neck": [
+   "hd_neck_1",
+   "hd_neck_2",
+   "hd_neck_3",
+   "hd_neck_4",
+   "hd_neck_5",
+   "hd_neck_6"
+  ],
+  "notebook": [
+   "hd_notebook_1",
+   "hd_notebook_2",
+   "hd_notebook_3",
+   "hd_notebook_4",
+   "hd_notebook_5",
+   "hd_notebook_6"
+  ],
+  "yawn": [
+   "hd_yawn_1",
+   "hd_yawn_2",
+   "hd_yawn_3",
+   "hd_yawn_4",
+   "hd_yawn_5",
+   "hd_yawn_6"
+  ]
+ },
+ "gesturesFront": {
+  "fold": [
+   "hd_fold_1",
+   "hd_fold_2",
+   "hd_fold_3",
+   "hd_fold_4",
+   "hd_fold_5",
+   "hd_fold_6"
+  ],
+  "look": [
+   "hd_look_1",
+   "hd_look_2",
+   "hd_look_3",
+   "hd_look_4",
+   "hd_look_5",
+   "hd_look_6"
+  ],
+  "rub": [
+   "hd_rub_1",
+   "hd_rub_2",
+   "hd_rub_3",
+   "hd_rub_4",
+   "hd_rub_5",
+   "hd_rub_6"
+  ],
+  "badge": [
+   "hd_badge_1",
+   "hd_badge_2",
+   "hd_badge_3",
+   "hd_badge_4",
+   "hd_badge_5",
+   "hd_badge_6"
+  ]
+ }
+}

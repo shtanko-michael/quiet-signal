@@ -1,0 +1,172 @@
+{
+ "frameWidth": 96,
+ "frameHeight": 128,
+ "cols": 58,
+ "scale": 0.7963,
+ "stairs": {
+  "R": 19.5,
+  "D": 15.3,
+  "front": [
+   0.6,
+   0.3,
+   0.1,
+   0.0
+  ],
+  "up": [],
+  "down": [],
+  "info": {},
+  "fit": {
+   "down": [
+    -0.3,
+    110.1
+   ],
+   "up": [
+    -0.45,
+    125.4
+   ]
+  }
+ },
+ "frames": {
+  "hdwalk_0": 0,
+  "hdwalk_1": 1,
+  "hdwalk_2": 2,
+  "hdwalk_3": 3,
+  "hdwalk_4": 4,
+  "hdwalk_5": 5,
+  "hdwalk_6": 6,
+  "hdwalk_7": 7,
+  "sway_side_0": 8,
+  "sway_side_1": 9,
+  "sway_side_2": 10,
+  "sway_side_3": 11,
+  "sway_side_4": 12,
+  "sway_side_5": 13,
+  "sway_side_6": 14,
+  "sway_side_7": 15,
+  "sway_front_0": 16,
+  "sway_front_1": 17,
+  "sway_front_2": 18,
+  "sway_front_3": 19,
+  "sway_front_4": 20,
+  "sway_front_5": 21,
+  "sway_front_6": 22,
+  "sway_front_7": 23,
+  "idle_side": 24,
+  "idle_front": 25,
+  "idle_mouth_side": 26,
+  "idle_mouth_side_wide": 27,
+  "blink_side": 28,
+  "talk_front": 29,
+  "talk_front_wide": 30,
+  "blink_front": 31,
+  "hdfront_0": 32,
+  "hdfront_1": 33,
+  "hdfront_2": 34,
+  "hdfront_3": 35,
+  "hdfront_4": 36,
+  "hdfront_5": 37,
+  "hdfront_6": 38,
+  "hdfront_7": 39,
+  "hdback_0": 40,
+  "hdback_1": 41,
+  "hdback_2": 42,
+  "hdback_3": 43,
+  "hdback_4": 44,
+  "hdback_5": 45,
+  "hdback_6": 46,
+  "hdback_7": 47,
+  "idle_back": 40,
+  "act2_1": 48,
+  "act2_2": 49,
+  "act2_3": 50,
+  "act2_4": 51,
+  "act2_5": 52,
+  "act3_1": 53,
+  "act3_2": 54,
+  "act3_3": 55,
+  "act3_4": 56,
+  "act3_5": 57
+ },
+ "walk": {
+  "side": [
+   "hdwalk_0",
+   "hdwalk_1",
+   "hdwalk_2",
+   "hdwalk_3",
+   "hdwalk_4",
+   "hdwalk_5",
+   "hdwalk_6",
+   "hdwalk_7"
+  ],
+  "front": [
+   "hdfront_0",
+   "hdfront_1",
+   "hdfront_2",
+   "hdfront_3",
+   "hdfront_4",
+   "hdfront_5",
+   "hdfront_6",
+   "hdfront_7"
+  ],
+  "back": [
+   "hdback_0",
+   "hdback_1",
+   "hdback_2",
+   "hdback_3",
+   "hdback_4",
+   "hdback_5",
+   "hdback_6",
+   "hdback_7"
+  ]
+ },
+ "climb": [],
+ "cycleArt": {
+  "side": 76.4,
+  "front": 38.0,
+  "back": 38.0
+ },
+ "climbCycleArt": 47.8,
+ "sway": {},
+ "hands": {
+  "hdwalk_0": [
+   -12.7,
+   -42.9
+  ],
+  "hdwalk_1": [
+   -7.7,
+   -43.6
+  ],
+  "hdwalk_2": [
+   -4.7,
+   -39.8
+  ],
+  "hdwalk_3": [
+   5.7,
+   -42.9
+  ],
+  "hdwalk_4": [
+   5.8,
+   -43.8
+  ],
+  "hdwalk_5": [
+   3.7,
+   -41.3
+  ],
+  "hdwalk_6": [
+   -4.7,
+   -38.8
+  ],
+  "hdwalk_7": [
+   -11.4,
+   -42.9
+  ],
+  "idle_side": [
+   -2.3,
+   -41.6
+  ],
+  "idle_front": [
+   1.5,
+   -41.7
+  ]
+ }
+}

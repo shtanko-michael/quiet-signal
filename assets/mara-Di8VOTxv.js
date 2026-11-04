@@ -1,0 +1,1 @@
+const a={"mara.look.default":"Nothing special.","mara.use.default":"I don't see what I could do with that.","mara.talk.default":"Doesn't look like he's in the mood to talk.","mara.nope.1":"I don't think that'll work.","mara.nope.2":"No. That makes no sense.","mara.nope.3":"That won't help here."};export{a as default};
